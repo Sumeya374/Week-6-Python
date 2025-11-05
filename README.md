@@ -8,4 +8,5 @@ In Week 6, I utilised the pandas library in Python for data analysis, along with
 - Comparison Operators
 - Conditional (if) Statements
 
-![Step 3 in the Exploratory Data Analysis (EDA) process](exploratory-data-analysis-3.png)
+  
+![EDA Step 3](images/exploratory-data-analysis-3.png)
