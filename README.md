@@ -10,4 +10,5 @@ In Week 6, I utilised the **pandas** library in Python for data analysis, along 
 * **Comparison Operators**
 * **Conditional (if) Statements**
 
-![Step 3 in Exploratory Data Analysis: Handling Missing Values](exploratory-data-analysis-3.png)
+
+![exploratory-data analysis-3](exploratory-data analysis-3.png)
