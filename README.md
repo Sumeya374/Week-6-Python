@@ -9,4 +9,4 @@ In Week 6, I utilised the pandas library in Python for data analysis, along with
 - Conditional (if) Statements
 
   
-![Exploratory Data Analysis Step 3](../../../exploratory-data-analysis-3.png)
+![Step 3 in Exploratory Data Analysis (EDA)](exploratory-data-analysis-3.png)
