@@ -7,8 +7,8 @@ In Week 6, I utilised the **pandas** library in Python for data analysis, along 
 
 - Advantages of using Python in programming
 - Python Libraries/Tools (e.g., Pandas, Matplotlib, and Seaborn)
-- Comparison Operators**
-- Conditional (if) Statements**
+- Comparison Operators
+- Conditional (if) Statements
 
 
 ![exploratory-data-analysis-3](exploratory-data-analysis-3.png)
