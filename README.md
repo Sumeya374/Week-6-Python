@@ -11,4 +11,4 @@ In Week 6, I utilised the **pandas** library in Python for data analysis, along 
 * **Conditional (if) Statements**
 
 
-![exploratory-data analysis-3](exploratory-data analysis-3.png)
+![exploratory-data-analysis-3](exploratory-data-analysis-3.png)
