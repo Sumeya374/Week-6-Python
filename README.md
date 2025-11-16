@@ -12,5 +12,4 @@ In Week 6, I utilised the **pandas** library in Python for data analysis, along 
 - Comparison Operators
 - Conditional (if) Statements
 
-<img src="images/Day%204%20Task%202%20(22).png" alt="Day 4 Task 2" width="500" height="auto">
-
+<img src="images/Day%204%20Task%202%20(22).png" alt="Day 4 Task 2" style="width:500px;">
